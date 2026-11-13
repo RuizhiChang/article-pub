@@ -32,12 +32,16 @@ e = html.escape
 
 # ---- data -----------------------------------------------------------------------------
 
-def load_articles() -> list[dict]:
+def load_articles(include_ids: set | frozenset = frozenset()) -> list[dict]:
+    """Released items only (.pushed exists), plus include_ids: the ones being released now.
+    Translations prepared in advance stay off the site until their release."""
     arts = []
     for tr_f in OUT.glob("*/*/*/translation.json"):
         d = tr_f.parent
         if (d / ".hidden").exists():  # removed from the site (translation kept on disk)
             continue
+        if not (d / ".pushed").exists() and json.loads((d / "meta.json").read_text())["id"] not in include_ids:
+            continue  # prepared in advance, not released yet
         meta = json.loads((d / "meta.json").read_text())
         tr = json.loads(tr_f.read_text())
         journal_slug = meta.get("journal_slug") or d.parent.parent.name
@@ -340,11 +344,11 @@ fab.classList.toggle('hide',y>lastY&&y>200&&y<h.scrollHeight-h.clientHeight-80);
 BUILD_ID = ""
 
 
-def build() -> list[dict]:
+def build(include_ids: set | frozenset = frozenset()) -> list[dict]:
     global BUILD_ID
     import time
     BUILD_ID = str(int(time.time()))
-    arts = load_articles()
+    arts = load_articles(include_ids)
     if SITE.exists():
         shutil.rmtree(SITE)
     (SITE / "a").mkdir(parents=True)

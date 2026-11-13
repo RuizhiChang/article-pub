@@ -4,6 +4,8 @@
   .venv/bin/python fiction.py --fetch                # download originals only (no translation)
   .venv/bin/python fiction.py gogol-the-nose ...     # translate + publish (+ push) these stories
   .venv/bin/python fiction.py --next 1               # translate + publish the next N untranslated
+  .venv/bin/python fiction.py --prepare 2            # translate ahead (not published)
+  .venv/bin/python fiction.py --release 1            # publish next prepared story
   options: --no-push
 
 Stories are stored like journal articles, under output/fiction/<collection>/<story>/, so the
@@ -147,6 +149,10 @@ def main() -> int:
     ap.add_argument("--list", action="store_true")
     ap.add_argument("--fetch", action="store_true")
     ap.add_argument("--next", type=int, default=0)
+    ap.add_argument("--prepare", type=int, default=0, metavar="N",
+                    help="translate ahead so N stories are ready, without publishing")
+    ap.add_argument("--release", type=int, default=0, metavar="N",
+                    help="publish the next N stories (prepared ones first; translate if none ready)")
     ap.add_argument("--no-push", action="store_true")
     ap.add_argument("--once-per-day", action="store_true",
                     help="do nothing if today's (UTC+8) daily release already happened")
@@ -173,7 +179,30 @@ def main() -> int:
         print(f"today's release ({today}) already done, skipping")
         return 0
 
-    if args.keys:
+    live = [it for it in items if not (it["dir"] / ".hidden").exists()]
+    is_ready = lambda it: (it["dir"] / "translation.json").exists() and not (it["dir"] / ".pushed").exists()  # noqa: E731
+
+    if args.prepare:
+        ready = [it for it in live if is_ready(it)]
+        todo = [it for it in live if not (it["dir"] / "translation.json").exists()][: max(0, args.prepare - len(ready))]
+        print(f"{len(ready)} ready; preparing {len(todo)} more")
+        failures = 0
+        for it in todo:
+            print(it["key"])
+            try:
+                translate_story(it["dir"], fetch_story(it))
+            except Exception as e:
+                failures += 1
+                print(f"    FAILED: {type(e).__name__}: {e}", file=sys.stderr)
+        return 1 if failures else 0
+
+    if args.release:
+        ready = [it for it in live if is_ready(it)]
+        fresh = [it for it in live if not (it["dir"] / "translation.json").exists()]
+        chosen = (ready + fresh)[: args.release]
+        print(f"releasing {', '.join(it['key'] for it in chosen) or 'nothing'}"
+              f" ({'prepared' if chosen and chosen[0] in ready else 'translating now'})")
+    elif args.keys:
         chosen = [it for it in items if it["key"] in args.keys]
         missing = set(args.keys) - {it["key"] for it in chosen}
         if missing:

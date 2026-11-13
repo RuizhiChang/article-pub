@@ -9,10 +9,18 @@ on:
     - cron: "40 21 * * *"   # 05:40
     - cron: "50 22 * * *"   # 06:50
     - cron: "35 23 * * *"   # 07:35
+    # Prepare (translate ahead, nothing published): 14:00 and 20:00 Beijing.
+    - cron: "0 6 * * *"
+    - cron: "0 12 * * *"
   workflow_dispatch:
     inputs:
+      mode:
+        description: "release = publish now; prepare = translate ahead only"
+        type: choice
+        options: [release, prepare]
+        default: release
       stories:
-        description: "How many new stories to translate & push"
+        description: "Stories to release (or to keep ready, for prepare)"
         default: "1"
 
 permissions:
@@ -28,6 +36,8 @@ jobs:
     timeout-minutes: 350   # may hold for up to ~5 h until 08:00
     env:
       TRANSLATE_BACKEND: codex
+      MODE: ${{ inputs.mode || ((github.event.schedule == '0 6 * * *' || github.event.schedule == '0 12 * * *') && 'prepare' || 'release') }}
+      PREPARE_AHEAD: ${{ vars.PREPARE_AHEAD || '2' }}
       PUSH_AT: ${{ github.event_name == 'schedule' && '08:00' || '' }}   # Beijing time; manual runs push at once
       CODEX_EFFORT: medium
       TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
@@ -87,10 +97,16 @@ jobs:
           ssh-keyscan github.com >> ~/.ssh/known_hosts 2>/dev/null
           echo "GIT_SSH_COMMAND=ssh -i ~/.ssh/site_deploy -o IdentitiesOnly=yes" >> "$GITHUB_ENV"
 
-      - name: Stories
-        run: python fiction.py --next "$STORIES_PER_DAY" ${{ github.event_name == 'schedule' && '--once-per-day' || '' }}
+      - name: Prepare stories in advance
+        if: env.MODE == 'prepare'
+        run: python fiction.py --prepare "${{ inputs.stories || env.PREPARE_AHEAD }}"
+
+      - name: Release stories
+        if: env.MODE == 'release'
+        run: python fiction.py --release "$STORIES_PER_DAY" ${{ github.event_name == 'schedule' && '--once-per-day' || '' }}
 
       - name: Journals (new issues)
+        if: env.MODE == 'release'
         continue-on-error: true   # a publisher blocking CI IPs must not stop the stories
         run: python main.py
 

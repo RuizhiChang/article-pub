@@ -83,7 +83,7 @@ def publish_and_push(pending: list, label: str, do_push: bool) -> int:
         wait_until_push_time(lead_minutes=2 if use_site else 0)
     if use_site and items:  # nothing new -> no rebuild/deploy
         try:
-            site.build()
+            site.build(include_ids={m["id"] for _, m, _ in items})
             if deploy.deploy(f"Add {len(items)} item(s)") and items:
                 ok = all(deploy.wait_live(f"{base}/{site.page_for(m['id'])}", site.BUILD_ID) for _, m, _ in items)
                 print("    waiting for GitHub Pages…", "live" if ok else "timed out")
