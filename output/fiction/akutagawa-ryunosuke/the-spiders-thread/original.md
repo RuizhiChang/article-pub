@@ -1,0 +1,79 @@
+# The Spider’s Thread
+
+*Akutagawa Ryūnosuke*
+
+## I
+
+One day the Buddha was sauntering alone on the brink of the lotus pond of Paradise.
+
+The lotus flowers in bloom in the pond were all as white as pearls, and the golden pistils and stamens in their centers ceaselessly filled all the air with ineffable fragrance.
+
+It was morning in Paradise.
+
+Presently the Buddha stood still on the brink of the pond, and through an opening among the leaves which covered the face of the water, suddenly beheld the scene below.
+
+As the floor of Hell lay directly beneath the lotus pond of Paradise, the Sanzu-no-Kawa and Hari-no-Yama were distinctly visible through the crystal water, as through a sterioptiscope.
+
+Then his eye fell on a man named Kandata, who was squirming with the other sinners in the bottom of Hell.
+
+This Kandata was a great robber who had done many evil things, murdering and setting fire to houses, but he had to his credit one good action. Once while on his way through a deep forest, he had noticed a little spider creeping along beside the road.
+
+So quickly lifting his foot, he was about to trample it to death, when he suddenly thought, “No, no, as small as this thing is, it, too, has a soul: it would be rather a shame to recklessly kill it,” and spared the spider’s life.
+
+As he looked down into Hell, the Buddha remembered how this Kandata had spared the spider’s life. And in return for that good deed, he thought, if possible, he would like to deliver him out of Hell. Fortunately when he looked around, he saw a spider of Paradise spinning a beautiful silvery thread on the halcyon-colored lotus leaves.
+
+The Buddha quietly took up the spider’s thread in his hand. And he let it straight down to the bottom of Hell far below through the opening among the pearly white lotus flowers.
+
+## II
+
+Here Kandata was rising and sinking with the other sinners in the Pond of Blood on the floor of Hell.
+
+It was pitch black everywhere, and when sometimes a glimpse was caught of something rising from that darkness, it turned out to be the gleam of the needle of the dread Hari-no-Yama, so it was inexpressibly forbidding. Moreover the stillness of the grave reigned everywhere, and the only thing that could at times be heard was the faint sighing of the sinners.
+
+This was because such sinners as had come down to this spot had already been tired out by the other manifold tortures of Hell and had lost even the strength to cry aloud.
+
+So, great robber though he was, Kandata, also suffocated with the blood, could do nothing but struggle in the pond like a dying frog.
+
+But his time came. One day when Kandata lifted his head by chance and looked up at the sky above the Pond of Blood, he saw a silver spider’s thread slipping down toward him from the high, high heavens, glittering slightly in the silent darkness just as if it feared the eyes of man.
+
+When he saw this, his hands clapped themselves for joy. If, clinging to this thread, he climbed as far as it went, he could surely escape from Hell.
+
+Nay, if all went well, he might even enter Paradise. Then he would never be driven on to Hari-no-Yama nor sunk in the Pond of Blood.
+
+As soon as these thoughts came into his mind, he grasped the thread tightly in his two hands and began to climb up and up with all his might.
+
+Because he was a great robber, he had long been thoroughly familiar with such things.
+
+But Hell is nobody-knows-how-many myriads of miles removed from Paradise and, strive as he might, he could not easily get out. After climbing for a while, he was finally exhausted and could not ascend an inch higher.
+
+So since he could do nothing else, he stopped to rest and, hanging to the thread, looked far, far down below him. Now since he had climbed with all his might, the Pond of Blood where he had just been was already, much to his surprise, hidden deep down in the darkness. And the dread Hari-no-Yama glittered dimly under him. If he went up at this rate, he might get out of Hell more easily than he had thought.
+
+With his hand twisted into the spider’s thread, Kandata laughed and cried out in a voice such as he had not uttered during all the years since coming here, “Success! Success!”
+
+But suddenly he noticed that below on the thread countless sinners were climbing eagerly after him, up and up, just like a procession of ants.
+
+When he saw this, Kandata simply blinked his eyes for a moment, with his big mouth hanging foolishly open in surprise and terror.
+
+How could that slender spider’s thread, which seemed as if it must break even with him alone, ever support the weight of all those people?
+
+If it should break in midair, even he himself, after all his effort in reaching this spot, would have to fall headlong back into Hell. It would be terrible if such a thing happened.
+
+But meanwhile hundreds and thousands of sinners were squirming out of the dark Pond of Blood and climbing with all their might in a line up the slender glittering thread. If he did not do something quickly, the thread was sure to break in two and fall. So Kandata cried out in a loud voice,
+
+“Here, you sinners! This spider’s thread is mine. Who on earth gave you permission to come up it? Get down! Get down!”
+
+Just at that moment, the spider’s thread, which had shown no sign of breaking up to that time, suddenly broke with a snap at the point where Kandata was hanging.
+
+So he was helpless. Without time to utter a cry, he shot down and fell headlong into the darkness, spinning swiftly round and round like a top.
+
+Afterwards, only the spider’s thread of Paradise, glittering and slender, hung short in the moonless and starless sky.
+
+## III
+
+Standing on the brink of the Lotus Pond of Paradise, the Buddha watched closely all that happened, and when Kandata sank like a stone to the bottom of the Pond of Blood, he began to saunter again with a sad expression on his face.
+
+Doubtless Kandata’s cold heart that would have saved only himself from Hell and his having received proper punishment and fallen back into Hell, had appeared to the Buddha’s eyes most pitiful. But the lotuses in the lotus pond of Paradise cared nothing at all about such things.
+
+The pearly white flowers were swaying about the Buddha’s feet. As they swayed, from the golden pistils in their centers, their ineffable fragrance ceaselessly filled all the air.
+
+It was near noon in Paradise.

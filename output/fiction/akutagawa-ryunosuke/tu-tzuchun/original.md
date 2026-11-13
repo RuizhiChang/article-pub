@@ -1,0 +1,249 @@
+# Tu Tzuchun
+
+*Akutagawa Ryūnosuke*
+
+## Part I
+
+It was the close of a spring day, and the sun was setting. A young man was standing in front of the western city-gate of Loyang, the capital, during the Tang dynasty in China. He was looking up absentmindedly into the sky. His name was Tu Tzuchun, and he was the son of a very rich man; but now he was living poorly and miserably, for all his fortune had been wasted away.
+
+At that time Loyang was considered the most prosperous city in the world. Therefore it was crowded with all kinds of traffic, and its streets were always full of people. Under the oily glow of the setting sun, which was reflected fully from the city-gate, the silk-gauze hats of ancient lords, the gold earrings of Turkish ladies, and the many-coloured decorative reins on the heads of white horses made a very beautiful picture as they streamed by incessantly.
+
+Tu Tzuchun, however, stood leaning against the gate walls, and gazed absently at the setting sun. Above, the silvery circle of a new moon could be already seen shining white and ghostly through the evening haze.
+
+“It grows dark, and I am hungry. No one will give me a bed.⁠ ⁠… Perhaps it will be better to drown myself in some river and end the life I am leading,” thought Tu Tzuchun, and, just as he was turning this idea over in his mind, there suddenly appeared from somewhere an old man with one squint eye, who stopped in front of him. The setting sun, falling aslant on the body of the latter, cast a long shadow upon the gate. For a moment he looked intently at Tu Tzuchun, and then said abruptly:
+
+“What are you thinking about?”
+
+“I?” said Tu Tzuchun, looking up, “I am thinking of what I shall do, for I cannot find a place to lay my head or pass the night.”
+
+Being questioned so suddenly, Tu Tzuchun could not but give an honest answer, and he at once hung his head.
+
+“I understand. I am very sorry for you,” replied the old man, and for a while he seemed deep in thought. After a few moments he raised his finger and pointed to where the sun’s rays were slanting.
+
+“I will tell you what. When you are standing here in the sunshine, mark carefully where your head casts its shadow. Come to that place at midnight, dig, and you will find a cartload of gold.”
+
+“Is what you tell me true?” the young man answered in astonishment, but when he looked, to his great surprise, the old man had disappeared, nor could he find a trace of him anywhere. He only saw the moon shining whiter and more silvery than before, and, as the crowd surged past him, several restless bats flapped their grey wings across his vision.
+
+## Part II
+
+In one day Tu Tzuchun became the richest man in the capital. He had done what the old man had told him, and had dug in the place where the sun had cast the shadow of his head the evening before. There he had found such a quantity of gold that no wagon could be found large enough to carry it.
+
+Tu Tzuchun, now a rich man, at once bought a magnificent mansion, and began to lead an even more luxurious life than the fabled king Genso. He drank the rich wine of Lanling, ate the longan of Kueichou, decorated his rooms with the peony that changes its colour four times a day, and rode in a carriage made from incense-wood, upon a seat of the purest ivory, and⁠ ⁠… if we were to describe his luxuries one by one, our story would never come to an end.
+
+Hearing all this, his friends, who had never even nodded their heads when they had met him in the street, began to frequent his house day and night, and the number of his acquaintances increased day by day. At the end of six months there was no beautiful woman or accomplished gentleman in all the capital who did not visit him frequently as his guest. Tu Tzuchun gave great banquets every day, and how indescribably gay these banquets were! I will describe to you what happened at such feasts. Tu Tzuchun would drink from a golden goblet filled with costly European wine, while he watched the clever tricks of some Hindu juggler who swallowed a naked sword while around him sat twenty beautiful maidens, ten of them wearing in their hair exquisite lotus flowers made from jade, a precious stone found in China, while the other ten wore peony flowers made from pure agate. These beautiful young women made harmonious music on flutes and harps, charming his senses as he watched the juggler.
+
+But, rich as he was, his money could not last forever, and so in the course of two years he again became a poor man. All his friends, whom he had entertained so lavishly while he was wealthy, gradually ceased to call, and at last not one of them troubled to inquire after him as they passed his door.
+
+At last, when the third spring had passed, he was without a home, and, though he still had many acquaintances in the great city of Loyang, not one of these would offer him a bed to sleep on or a morsel to eat. Not only shelter for the night was refused him, but he was even refused a cup of pure water to quench his thirst.
+
+One evening, being at his wit’s end, he happened to be standing again at the western gate, gazing into the sky watching the setting sun, when suddenly there appeared again before him the same old man with the squint eye, and looking into his face he asked, as before:
+
+“What are you thinking about?”
+
+When Tu Tzuchun saw who it was, he hung his head with shame, and for a while was not able to make any answer. But again the old man repeated his question more kindly, so Tu Tzuchun answered timidly:
+
+“I am thinking of what I shall do, for I cannot find a place to lay my head or pass the night.”
+
+The old man said to him:
+
+“I understand. I am very sorry for you; but, I will tell you what to do. As you stand here in the setting sun, and when your shadow is cast upon the ground, mark that part of it which corresponds to your breast. Come to that place at midnight, dig deep, and you will find a cartload of gold.”
+
+On saying these words the old man again disappeared suddenly among the crowds of passersby.
+
+Again Tu Tzuchun became the richest man in the world, and he at once plunged into the same luxurious manner of living as before. The same peony flowers that change their colour four times a day grew in his garden, and graceful white peacocks dreamed among the flowers, and the Hindu juggler was engaged to entertain his guests⁠ ⁠… all was as before. And the immense heap of gold, that overflowed the cart which he took to gather it up, was all gone in less than three years.
+
+## Part III
+
+“What are you thinking about?”
+
+The old man with the squint eye stood before him again, asking the same question for the third time; and as before Tu Tzuchun stood gazing absentmindedly at the new moon glimmering faintly through the haze.
+
+“I am thinking what I shall do, for I have no place to lay my head or pass the night.”
+
+“I understand. I am very sorry for you, but⁠ ⁠… I will tell you what to do. Stand here in the rays of the setting sun, and when your shadow is cast upon the ground, carefully mark the spot of the shadow which corresponds to your abdomen. Come here at midnight, and dig in that place, and I am sure you will find a cartload of⁠ ⁠…”
+
+But this time Tu Tzuchun interrupted the old man before he could finish his words, and holding up his hands he said:
+
+“I want no money!”
+
+“You want no money? I see! Then you are at last tired of luxurious living?”
+
+The old man incredulously watched Tu Tzuchun’s eyes.
+
+“No, I am not tired of my way of living, but I am disgusted with all men,” replied Tu Tzuchun harshly.
+
+“That is amusing. And what has made you so disgusted with men?”
+
+“They are heartless, every one of them! While I am rich, they say pretty things, but, as soon as I become poor, they will not even smile at me. It seems useless to become rich again when I reflect on what has happened before.”
+
+On hearing Tu Tzuchun’s words, the old man began to grin broadly.
+
+“I see. Even though you are young, you have some good sense left. Well, then, even though you might be a poor man hereafter, do you intend to live a quiet and simple life?”
+
+Tu Tzuchun hesitated a little, then quickly lifting up his face, which bore a resolute expression, he looked steadily at the old man and began imploringly:
+
+“Just now I do not wish to live in that way, but I would like to become one of your pupils and study magic.⁠ ⁠… O, do not hide your learning from me. I am sure that you are a hermit of high virtue, otherwise how would you have been able to make me the richest man in the world in a single night? I implore you, become my teacher, and explain to me your wonderful art of magic.”
+
+The old man thought for some time in silence, and a frown crossed his brows. Then with a pleasant smile he again began to speak:
+
+“Yes, I am a hermit as you supposed. My name is Tiehkuantzu, and I live among the mountains of Emeishan. When I first saw you, I thought that you possessed some wisdom, so twice I tried to make you rich⁠ ⁠… If you wish to be one of my pupils, and if you are truly earnest in what you say, you shall have your wish.”
+
+The old man gladly consented to take him as his pupil, and Tu Tzuchun was beside himself with joy. Before waiting for the old man to finish his words, he prostrated himself and bowed to the ground at his feet. But the old man bade him rise, saying:
+
+“No, no, do not thank me so much yet. Even though I have consented to take you as a pupil, it depends wholly upon yourself whether you will become a great magician or not⁠ ⁠… At any rate, will you come with me into the heart of the mountains of Emeishan? Look, pick up that bamboo-stick which is lying in the dust. Let us fly immediately into the air.”
+
+The old man took the green bamboo stick which the youth had handed to him. They seated themselves upon it as one might ride a horse, he mumbled a few magic words, and lo! the stick began to soar up into the sky as vigorously as if it had been a dragon. They speedily flew toward the mountains of Emeishan through the clear evening sky of a perfect spring day.
+
+Frightened beyond words, Tu Tzuchun looked timidly beneath him, but he could only discern the blue mountains rising out of the twilight. The western city gate of Loyang was hidden, perhaps in the evening mist, and, though he strained his eyes, there was no sign of it to be seen. Then Tiehkuantzu, with his white beard flowing behind him in the breeze, began to sing loudly:
+
+> “In the morning I visit the Polar Seas,
+ 
+
+In the evening the mountains of Tsangwu.
+ 
+
+With a dagger at my belt, and with a brave heart,
+ 
+
+Three times I entered Loyang, but no one knew me,
+ 
+
+And singing, I flew over the lake of Tungtinghu.”
+
+## Part IV
+
+Very soon the bamboo stick on which the two of them rode, descended upon the mountains of Emeishan. Where they came down Tu Tzuchun saw a large flat rock protruding from a deep ravine; but he knew that it must have still been very high, because in the sky the polar star still could be seen sparkling brightly, as large as a cup. Being a deserted part of the country, all was very still, and they could only hear the whispering of the wind in a twisted that grew on the edge of a cliff near by.
+
+When they alighted on the rock, Tiehkuantzu told Tu Tzuchun to rest there under the shelter of the cliff, saying:
+
+“I am going to heaven to see Hsiwangmu, so you must wait until I come back. Probably during my absence many devils will appear before you, but whatever you do make no noise at all. If you give vent to a single word, you must know that you will not be fit to become a magician. Mark what I say! You must keep absolute silence even if the earth should split asunder!”
+
+“You can count upon it. I will never make a noise. I will keep silent, even though I may lose my life,” answered Tu Tzuchun.
+
+“Then I am content,” said Tiehkuantzu, “and, now I am going.”
+
+With a word of parting the old man rose again on his bamboo stick, flew straight up into the sky, and disappeared above the steep mountains which stood vertically against the night sky, looking as if they had been hewn and shaped by the axe of some giant.
+
+Tu Tzuchun sat alone on the flat rock, and in silence he watched the stars in the evening sky. After an hour or so, as the cold night wind from the high mountains began to penetrate his clothes, a ringing voice came from the sky. It shouted suddenly down upon him, and its tone was rough:
+
+“Who is it that sits there?”
+
+Tu Tzuchun remained silent as the old man had told him to do. Then again the same menacing voice called sternly:
+
+“If you will not answer, prepare to die instantly!”
+
+But Tu Tzuchun still remained silent.
+
+All of a sudden a tiger with very bright eyes appeared from somewhere, and leaping upon the rock on which Tu Tzuchun sat, began glaring and roaring at him very fiercely. At the same time the pine-tree on the cliff just behind him shook violently, and a huge white snake with a big head, as big as a barrel, came wriggling down the precipice toward him, and stopped before him waving its fiery tongue.
+
+Tu Tzuchun, however, remained still and silent, and did not move so much as an eyebrow.
+
+The tiger and the snake glared at each other, as if gloating over their chances of getting their victim first. Presently, and almost at the same instant, both of them sprang upon Tu Tzuchun. He was prepared to feel the sharp teeth of the tiger embedded in his throat, or to be swallowed by the snake, but just as they both almost touched his body, they disappeared suddenly, dissolving like mist, or losing their substance like the night wind. Only the pine-tree on the cliff moaned as before.
+
+Tu Tzuchun drew a long breath, and waited for the next terrible thing that might happen to him.
+
+Presently a great gust of wind began to blow, and the clouds, black as ink, shut everything from his view. Dazzling, purple-colored lightning cut the sky asunder, followed by a terrible thunderstorm, but Tu Tzuchun sat still and showed no sign of fear. The wind howled, the rain fell in torrents, the lightning became incessant, and the mountains themselves seemed to shake to their very foundations. All at once a dreadful thunderbolt, blazing hot, fell from the skies of inkyblack clouds, and struck Tu Tzuchun upon the head.
+
+In spite of himself, he fell flat upon the rock, pressing both his hands to his ears. When he opened his eyes again, the sky was as clear as before, and the great polar star, as big as a cup, was shining above the high mountains across the ravine.
+
+Then, this thunderstorm, too, must have been the evil trick of devils, just as the tiger and the white snake had been. Tu Tzuchun’s heart became calmer, and wiping the cold perspiration from his brow, he again seated himself upon the rock. He sighed, and looked about him.
+
+But while his sigh was still dying on the wind, there appeared in front of him the solemn figure of a great god. He was some thirty feet high, and wore a suit of armour made of pure gold. He held a three-forked spear in his hand, and pointing it at Tu Tzuchun’s breast, he roared in a terrific voice like thunder:
+
+“Hey, there! What are you doing in this part of the world? These mountains of Emeishan have always been my abode since the very beginning of the world. How dare you sit here alone without paying any attention to my presence. You cannot be any ordinary mortal. If you value your life, I command you to make answer!”
+
+But Tu Tzuchun still kept silence, for he remembered what the old man had told him.
+
+“You will not answer me?⁠ ⁠… Well, then, do as you please. I will command my army to cut you to pieces!”
+
+The war god held up his spear, and beckoned to the sky above the opposite mountains. In one instant the dark clouds opened, and a host of countless warriors, some armed with spears and some with swords, came surging down upon him.
+
+This sight nearly made Tu Tzuchun give vent to a cry of terror, but remembering the old man’s instructions, he did his best to keep silence. Seeing that Tu Tzuchun did not move or utter a sound, the war god was beside himself with rage.
+
+“You obstinate brute! Since you will not answer me, you shall die!”
+
+So saying, the war god raised his three-forked spear and plunged it into Tu Tzuchun’s breast, and killed him. And laughing so loudly that the mountains of Emeishan shook violently, the war god disappeared, and his countless warriors also disappeared with him like figures in some horrible dream.
+
+The polar star began to shine once more upon the flat rock. The pine-tree on the cliff moaned as the wind swept sadly through its branches. But Tu Tzuchun lay flat on the rock, for his life had left his body long before.
+
+## Part V
+
+Tu Tzuchun’s body lay on the rock, but his soul, floating from his corpse, drifted silently down to the bottom of Jigoku, the Inferno.
+
+Between this world and the Inferno there is a dark, dark passage, and an icy-cold wind blows furiously in the sky all the year round. Carried on by this icy wind, Tu Tzuchun floated in the sky for a very long while, just as a dead leaf might float through the air, until he came in front of a magnificent palace. On a tablet outside this beautiful place was written: “Senlotien.”
+
+Crowds of terrible and evil-looking devils were in front of this palace, and, as soon as they saw Tu Tzuchun they gathered thickly around him, and, carrying him, they took him to the foot of a throne where a king in a black robe, and wearing a golden crown was seated. As he sat there he glared angrily around him. It was evident that this was Yama, or Yemma, the king of Hades, of whom Tu Tzuchun had often been told. Tu Tzuchun knelt down before the king, fearing what would become of him.
+
+“Why were you on the top of the mountain of Emeishan?”
+
+Yama’s voice thundered from the throne, and Tu Tzuchun was about to make answer, when he remembered the caution of Tiehkuantzu: “Never speak one word!”
+
+He therefore hung his head, and remained dumb. Yama became very angry, and rising on his feet, and raising his sceptre, he again roared like thunder:
+
+“Do you know where you are? Answer this instant, or you shall feel the torture of the Inferno!”
+
+But Tu Tzuchun never moved a muscle. Yama seeing this, turned to the devils and harshly gave them some order. The devils prostrated themselves, and then, rising again, they seized him, and flew with him up into the sky.
+
+Now, everyone knows that, besides the Mountains of Swords and the Pond of Blood, there is also the Valley of Flames and the Sea of Ice, which lie side by side under the dark sky of Jigoku. In turn the devils hurled Tu Tzuchun into each of these, so that his heart was pierced by the cruel swords, his face scourged by the flames, his tongue was wrenched from his throat, his body was skinned and beaten with an iron-pounder, and he was then hurled into a pan of boiling oil. His brain was sucked by venomous serpents, and his eyes were picked out savagely by crested eagles,⁠ ⁠… but, if we are to describe all the horrible things which befell him, we should never come to the end of our story. But he went through every kind of infernal torture that is too terrible to relate.
+
+Tu Tzuchun, nevertheless, was patient, and with teeth set he bore all these horrible tortures without giving vent to a single sound. The devils themselves were amazed at his obstinacy, and so eventually they flew back again with Tu Tzuchun to the palace of Senlotien. Prostrating themselves as before at the foot of his throne they related all that had happened.
+
+“This sinner never utters a single sound, yet we have put him through every kind of torture.”
+
+Yama thought for a while, and frowned, but presently he hit upon an idea.
+
+“This fellow’s parents, I remember, are living among the animals of Jigoku. Bring them here at once.”
+
+One of the devils who had heard the king’s command instantly flew up into the sky, and came back as a meteor shining through the darkness, and with him he brought the two animals. Upon seeing these animals Tu Tzuchun was very amazed, for they were none other than his own parents. Though their bodies were those of starved-looking horses, they had the faces of his deceased parents.
+
+“Why were you sitting on the top of the mountains of Emeishan? If you do not answer at once, I will put your parents to the torture instead of you.”
+
+Tu Tzuchun did not make any answer to this threat.
+
+“You undutiful wretch! You think, then, that all is well so long as you are happy and unharmed. You do not mind if your parents suffer?”
+
+Then Yama, with a voice so loud and fierce that it shook the very foundations of the palace, cried:
+
+“Beat these two animals, you devils. Beat them until all their flesh and bones are crushed to pulp!”
+
+At his command the devils sprang up and seizing whips made of the hardest iron, began to beat the horses most unmercifully. Their whips whistled as they passed through the air, and the lashes descended upon the poor animals one after another. The animals⁠—his parents who had taken the form of horses⁠—writhed in agony, and shedding tears of blood, they screamed so hideously that it was horrible to hear.
+
+“How now? Won’t you speak?”
+
+Yama ordered the devils to cease their beating for a minute, and again pressed Tu Tzuchun to answer. The two horses lay gasping for breath, and their flesh, cut to the bone, was dripping with blood. Their bones were so broken and crushed that they both lay in a pool of gore at the foot of the throne.
+
+Tu Tzuchun desperately kept his eyes closed firmly remembering the old man’s warning. He remained like this for a few moments, until a very faint voice, as soft as breathing, came to his ears.
+
+“Never worry about us. Our suffering does not matter at all. Nothing could make us more contented than to know that you are happy. If you wish, keep silence, however hard the king may press you.”
+
+The voice that spoke was without doubt the loving voice of his dear mother. Tu Tzuchun involuntarily opened his eyes, and saw that one of the wretched horses lying at his feet had its eyes intensely fixed upon him. The expression on her face showed no sign of anger, even though she had been lashed so cruelly, for, in her great love for him, she had forgotten all her bodily pain. What a heavenly heart! What bravery! How different from the selfishness of the world, and of the people who said pretty things to him when he was rich, and who cut him so cruelly when he was poor. Then Tu Tzuchun, regardless of the old man’s orders, ran to the side of his mother, and took the neck of the dying horse in his arms, and as the tears streamed down his face, he could hold out no longer and he cried:
+
+“Mother!⁠ ⁠…”
+
+All of a sudden everything seemed to change, and he found himself standing at the western gate of the city of Loyang, gazing absentmindedly at the setting sun. The sky was hazy, and a white new moon shone in the sky above him. Surging past was an incessant stream of men and vehicles⁠ ⁠… he saw just the same scene as before.
+
+“Young man, do you know that you can never be a magician, even though you become one of my pupils?”
+
+Looking up he beheld the old man with the squint eye. He was smiling.
+
+“No, I cannot, but I am rather glad of it.”
+
+Tu Tzuchun, with tears in his eyes, took the old man’s hands in his and held them. His voice shook with passion:
+
+“It was impossible to keep silent when I saw my dear parents being tortured in the palace of Senlotien, even though I may never become a great magician.”
+
+“If you had kept your silence.⁠ ⁠…”
+
+Tiehkuantzu looked intently into Tu Tzuchun’s face, and his expression suddenly became very severe.
+
+“If you had kept your silence,” he continued, I would have killed you at once. You don’t wish to be a magician, and to be rich again is distasteful to you. Then, what would you like to be?
+
+“No matter what I become,” he answered, “I intend to lead only an honest and humane life hereafter. And a happiness hitherto unknown came into his voice as he said these words.
+
+“I shall never forget what you have said! And, now, I will bid you goodbye. Perhaps I shall never see you again.”
+
+So saying, Tiehkuantzu turned to go, but stopping suddenly he turned again toward Tu Tzuchun and said, smiling pleasantly:
+
+“O, before I go, I have just remembered that I own a house, which is at the southern foot of Mt. Taishan. I will give it to you, with the surrounding fields, and everything that is in it. You had better take up your abode there at once. At this time of the year the peach-trees that surround it will be in full bloom.”
+
+And Tiehkuantzu disappeared.

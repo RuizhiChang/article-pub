@@ -1,0 +1,122 @@
+name: Daily translate & push
+
+on:
+  schedule:
+    # GitHub cron is UTC and can start hours late, so fire several times well before 08:00
+    # Beijing (UTC+8); the first run to start translates, then holds the site deploy + push
+    # until PUSH_AT. Later runs see today's release is done and exit (--once-per-day).
+    - cron: "10 19 * * *"   # 03:10 Beijing
+    - cron: "40 21 * * *"   # 05:40
+    - cron: "50 22 * * *"   # 06:50
+    - cron: "35 23 * * *"   # 07:35
+  workflow_dispatch:
+    inputs:
+      stories:
+        description: "How many new stories to translate & push"
+        default: "1"
+
+permissions:
+  contents: write   # commit output/ state back to this repo
+
+concurrency:
+  group: daily
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350   # may hold for up to ~5 h until 08:00
+    env:
+      TRANSLATE_BACKEND: codex
+      PUSH_AT: ${{ github.event_name == 'schedule' && '08:00' || '' }}   # Beijing time; manual runs push at once
+      CODEX_EFFORT: medium
+      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+      TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+      SITE_REPO: git@github.com:RuizhiChang/reader.git
+      SITE_BASE_URL: https://ruizhichang.github.io/reader
+      STORIES_PER_DAY: ${{ inputs.stories || vars.STORIES_PER_DAY || '1' }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - run: npm install -g @openai/codex@0.165.0
+
+      # Codex (ChatGPT subscription) login: a dedicated CI session, NOT the one on your Mac.
+      # Seeded once from the CODEX_AUTH_JSON secret; each run saves the refreshed file to the
+      # Actions cache so token rotation carries over to the next run.
+      # The cached copy is encrypted with CODEX_CACHE_KEY, because in a public repo the Actions
+      # cache can be read by workflows from fork pull requests.
+      - name: Restore Codex login
+        id: codex-cache
+        uses: actions/cache/restore@v4
+        with:
+          path: ~/codex-auth.enc
+          key: codex-auth-enc-${{ github.run_id }}
+          restore-keys: codex-auth-enc-
+      - name: Install Codex login
+        env:
+          CODEX_AUTH_JSON: ${{ secrets.CODEX_AUTH_JSON }}
+          CODEX_CACHE_KEY: ${{ secrets.CODEX_CACHE_KEY }}
+        run: |
+          mkdir -p ~/.codex
+          if [ -f ~/codex-auth.enc ] && openssl enc -d -aes-256-cbc -pbkdf2 -pass env:CODEX_CACHE_KEY \
+               -in ~/codex-auth.enc -out ~/.codex/auth.json 2>/dev/null; then
+            echo "restored refreshed login from cache"
+          else
+            printf '%s' "$CODEX_AUTH_JSON" > ~/.codex/auth.json
+            echo "seeded login from secret"
+          fi
+          chmod 600 ~/.codex/auth.json
+      - run: codex login status
+
+      - name: Deploy key for the website repo
+        env:
+          SITE_DEPLOY_KEY: ${{ secrets.SITE_DEPLOY_KEY }}
+        run: |
+          mkdir -p ~/.ssh
+          printf '%s\n' "$SITE_DEPLOY_KEY" > ~/.ssh/site_deploy
+          chmod 600 ~/.ssh/site_deploy
+          ssh-keyscan github.com >> ~/.ssh/known_hosts 2>/dev/null
+          echo "GIT_SSH_COMMAND=ssh -i ~/.ssh/site_deploy -o IdentitiesOnly=yes" >> "$GITHUB_ENV"
+
+      - name: Stories
+        run: python fiction.py --next "$STORIES_PER_DAY" ${{ github.event_name == 'schedule' && '--once-per-day' || '' }}
+
+      - name: Journals (new issues)
+        continue-on-error: true   # a publisher blocking CI IPs must not stop the stories
+        run: python main.py
+
+      - name: Save state
+        if: always()
+        run: |
+          git config user.name "article-pub bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add -A output
+          git diff --cached --quiet || git commit -m "Daily run $(date -u +%F)" && git push
+
+      - name: Encrypt Codex login for the cache
+        if: always()
+        env:
+          CODEX_CACHE_KEY: ${{ secrets.CODEX_CACHE_KEY }}
+        run: openssl enc -aes-256-cbc -pbkdf2 -salt -pass env:CODEX_CACHE_KEY -in ~/.codex/auth.json -out ~/codex-auth.enc
+      - name: Save Codex login
+        if: always()
+        uses: actions/cache/save@v4
+        with:
+          path: ~/codex-auth.enc
+          key: codex-auth-enc-${{ github.run_id }}
+
+      - name: Tell me if it failed
+        if: failure()
+        run: |
+          curl -s "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
+            --data-urlencode "chat_id=${TELEGRAM_CHAT_ID}" \
+            --data-urlencode "text=⚠️ 每日推送失败：${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}" > /dev/null

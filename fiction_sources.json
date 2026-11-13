@@ -1,0 +1,30 @@
+{
+  "_note": "Public-domain short fiction (US) from Standard Ebooks (CC0 editions). 'book' is the path after standardebooks.org/ebooks/; 'id' is the story's <article id>.",
+  "collections": [
+    {
+      "book": "nikolai-gogol/short-fiction/various-translators",
+      "author": "Nikolai Gogol", "author_zh": "果戈理", "label_zh": "果戈理短篇集",
+      "stories": ["the-nose", "memoirs-of-a-madman", "st-johns-eve"]
+    },
+    {
+      "book": "akutagawa-ryunosuke/short-fiction/various-translators",
+      "prefix": "akutagawa", "author": "Akutagawa Ryūnosuke", "author_zh": "芥川龙之介", "label_zh": "芥川龙之介短篇集",
+      "stories": ["the-spiders-thread", "tobacco-and-the-devil", "the-nose", "the-wine-worm", "tu-tzuchun"]
+    },
+    {
+      "book": "leonid-andreyev/short-fiction/various-translators",
+      "author": "Leonid Andreyev", "author_zh": "安德烈耶夫", "label_zh": "安德烈耶夫短篇集",
+      "stories": ["lazarus", "the-story-of-the-snake", "the-giant"]
+    },
+    {
+      "book": "selma-lagerlof/short-fiction/various-translators",
+      "author": "Selma Lagerlöf", "author_zh": "塞尔玛·拉格洛夫", "label_zh": "拉格洛夫短篇集",
+      "stories": ["the-legend-of-the-birds-nest", "the-holy-night", "robin-redbreast", "the-sacred-flame"]
+    },
+    {
+      "book": "lord-dunsany/fifty-one-tales",
+      "author": "Lord Dunsany", "author_zh": "邓萨尼勋爵", "label_zh": "邓萨尼《五十一则故事》",
+      "stories": ["charon", "the-hen", "death-and-odysseus", "the-true-history-of-the-hare-and-the-toroise"]
+    }
+  ]
+}
