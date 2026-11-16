@@ -91,6 +91,8 @@ def publish_and_push(pending: list, label: str, do_push: bool) -> int:
         except Exception as e:
             print(f"    site deploy FAILED: {type(e).__name__}: {e}", file=sys.stderr)
             return 1  # don't push links that may not work
+    if do_push and items:
+        wait_until_push_time()  # the site went live ~2 min early; the message goes out on the minute
     for d, m, tr in items:
         try:
             read_url = None
